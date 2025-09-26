@@ -33,6 +33,13 @@
 
 Based on work by @espona (Lucia Espona Pernas) for ckanext-restricted (https://github.com/EnviDat/ckanext-restricted).
 
+
+## Obsolete
+
+This extension is no longer maintained.
+
+---
+
 ## Install
 
 ```bash
